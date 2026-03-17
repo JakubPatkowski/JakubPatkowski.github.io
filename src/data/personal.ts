@@ -5,7 +5,7 @@ export const personalInfo: PersonalInfo = {
   title: 'Backend Developer',
   location: 'Lublin, Polska',
   locationEn: 'Lublin, Poland',
-  avatarUrl: '/JakubPatkowski/avatars/avatar.png',
+  avatarUrl: '/avatars/avatar.png',
   bio: 'Backend Developer z półtorarocznym doświadczeniem komercyjnym w .NET. W pracy rozwijam aplikację w architekturze modular monolith oraz DDD i jestem odpowiedzialny za implementację niezależnych serwisów satelitarnych.',
   bioEn: 'Backend Developer with one and a half years of commercial experience in .NET. At work I develop an application based on modular monolith architecture and DDD, and I am responsible for implementing independent satellite microservices.',
   longBio: [
@@ -21,8 +21,8 @@ export const personalInfo: PersonalInfo = {
     'I am a second-semester student of a part-time Master\'s programme at **Lublin University of Technology** (Computer Science, specialisation: Software Engineering and Web Services). My engineering thesis was built using **Spring Boot**.',
   ],
   
-  resumeUrlPl: '/JakubPatkowski/cv/CV_Jakub_Patkowski_PL.pdf',
-  resumeUrlEn: '/JakubPatkowski/cv/CV_Jakub_Patkowski_EN.pdf',
+  resumeUrlPl: '/cv/CV_Jakub_Patkowski_PL.pdf',
+  resumeUrlEn: '/cv/CV_Jakub_Patkowski_EN.pdf',
 }
 
 export const socialLinks: SocialLink[] = [
